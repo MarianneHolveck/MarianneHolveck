@@ -30,7 +30,7 @@
 
 | 💻 Projects  | 🛎 Technology | 📚 Forks | 📬 Pull requests |
 | :--------------- | :---------------: | :---------------: | :---------------: |
-| <a href="https://github.com/MarianneHolveck/Pokedex"><b>My Movies List</b></a>  |  <img alt="API" src="https://img.shields.io/badge/-API-blue?style=flat-square&logo=api&logoColor=white" />        |  <img alt="Forks" src="https://img.shields.io/github/forks/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> |
+| <a href="https://github.com/MarianneHolveck/MediaList"><b>My Medias List</b></a>  |  <img alt="API" src="https://img.shields.io/badge/-API-blue?style=flat-square&logo=api&logoColor=white" />        |  <img alt="Forks" src="https://img.shields.io/github/forks/MarianneHolveck/MediaList?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MarianneHolveck/MediaList?style=flat-square&labelColor=343b41"/> |
 <!-- | <a href="https://github.com/MarianneHolveck/Pokedex"><b>Movies and TvShows info</b></a>  | <img alt="symfony" src="https://img.shields.io/badge/-SYMFONY-green?style=flat-square&logo=symfony&logoColor=white" />             |   <img alt="Forks" src="https://img.shields.io/github/forks/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> | -->
 
 
@@ -76,6 +76,7 @@
 <img alt="github" src="https://img.shields.io/badge/-GitHUB-black?style=flat-square&logo=github&logoColor=white" />
 <img alt="mysql" src="https://img.shields.io/badge/-MYSQL-005e87?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="vscode" src="https://img.shields.io/badge/-VSCODE-0076c6?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img alt="trello" src="https://img.shields.io/badge/-TRELLO-026aa7?style=flat-square&logo=trello&logoColor=white" />
 <img alt="windows" src="https://img.shields.io/badge/-WINDOWS-99dd17?style=flat-square&logo=windows&logoColor=white" />
 <img alt="linux" src="https://img.shields.io/badge/-LINUX-f28a00?style=flat-square&logo=linux&logoColor=white" />
 <img alt="mac" src="https://img.shields.io/badge/-macOS-f50572?style=flat-square&logo=macos&logoColor=white" />
