@@ -93,7 +93,7 @@
 
 <a href="https://www.linkedin.com/in/marianne-holveck/"><img alt="linkedin" src="https://img.shields.io/badge/-LINKEDIN-2764ac?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/MarianneHolveck"><img alt="twitter" src="https://img.shields.io/badge/-TWITTER-1c9ceb?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="holveckmarianne@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/-GMAIL-ce493c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:holveckmarianne@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/-GMAIL-ce493c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </center>
 
 
