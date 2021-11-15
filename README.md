@@ -19,11 +19,9 @@
 - ⚡ My portfolio will be here soon ! I promise
 
 
-&nbsp;
 
 ---
 
-&nbsp;
 
 ## **Projects :**
 
@@ -43,11 +41,11 @@
 | <a href="https://github.com/MarianneHolveck/Pokedex"><b>Pokedex</b></a>  |  <img alt="MVC" src="https://img.shields.io/badge/-MVC-blue?style=flat-square&logo=mvc&logoColor=white" />   |  <img alt="Forks" src="https://img.shields.io/github/forks/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> |
 | <a href="https://github.com/MarianneHolveck/Pokedex"><b>Game of Throne</b></a> | <img alt="laravel" src="https://img.shields.io/badge/-LARAVEL-ef2a1d?style=flat-square&logo=laravel&logoColor=white" />  |   <img alt="Forks" src="https://img.shields.io/github/forks/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> |
 
-&nbsp;
+
 
 ---
 
-&nbsp;
+
 
 ## **I Work With :**
 
@@ -83,21 +81,21 @@
 <img alt="mac" src="https://img.shields.io/badge/-macOS-f50572?style=flat-square&logo=macos&logoColor=white" />
 </p>
 
-&nbsp;
+
 
 ---
 
-&nbsp;
+
 
 ## **Connect With Me**
 
-&nbsp;
+
 
 <a href="https://www.linkedin.com/in/marianne-holveck/"><img alt="linkedin" src="https://img.shields.io/badge/-LINKEDIN-2764ac?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/MarianneHolveck"><img alt="twitter" src="https://img.shields.io/badge/-TWITTER-1c9ceb?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="holveckmarianne@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/-GMAIL-ce493c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </center>
 
-&nbsp;
+
 
 <img src="img/nightcity-animation-AR-Plan-Agrandi-banner.gif" alt='nightcity' width="100%" >
