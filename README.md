@@ -39,7 +39,7 @@
 | 💻 Projects  | 🛎 Technology | 📚 Forks | 📬 Pull requests |
 | :--------------- | :---------------: | :---------------: | :---------------: |
 | <a href="https://github.com/MarianneHolveck/Pokedex"><b>Pokedex</b></a>  |  <img alt="MVC" src="https://img.shields.io/badge/-MVC-blue?style=flat-square&logo=mvc&logoColor=white" />   |  <img alt="Forks" src="https://img.shields.io/github/forks/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> |
-| <a href="https://github.com/MarianneHolveck/Pokedex"><b>Game of Throne</b></a> | <img alt="laravel" src="https://img.shields.io/badge/-LARAVEL-ef2a1d?style=flat-square&logo=laravel&logoColor=white" />  |   <img alt="Forks" src="https://img.shields.io/github/forks/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> |
+| <a href="https://github.com/MarianneHolveck/GameOfThrones"><b>Game of Thrones</b></a> | <img alt="laravel" src="https://img.shields.io/badge/-LARAVEL-ef2a1d?style=flat-square&logo=laravel&logoColor=white" />  |   <img alt="Forks" src="https://img.shields.io/github/forks/MarianneHolveck/GameOfThrones?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MarianneHolveck/GameOfThrones?style=flat-square&labelColor=343b41"/> |
 
 
 
