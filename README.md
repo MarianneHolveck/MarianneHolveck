@@ -30,7 +30,7 @@
 
 | 💻 Projects  | 🛎 Technology | 📚 Forks | 📬 Pull requests |
 | :--------------- | :---------------: | :---------------: | :---------------: |
-| <a href="https://github.com/MarianneHolveck/MediaList"><b>My Medias List</b></a>  |  <img alt="API" src="https://img.shields.io/badge/-API-blue?style=flat-square&logo=api&logoColor=white" />        |  <img alt="Forks" src="https://img.shields.io/github/forks/MarianneHolveck/MediaList?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MarianneHolveck/MediaList?style=flat-square&labelColor=343b41"/> |
+| <a href="https://github.com/MarianneHolveck/GameFlix"><b>GameFlix</b></a>  |  <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-green?style=flat-square&logo=symfony&logoColor=white" />     |  <img alt="Forks" src="https://img.shields.io/github/forks/MarianneHolveck/GameFlix?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MarianneHolveck/MediaList?style=flat-square&labelColor=343b41"/> |
 <!-- | <a href="https://github.com/MarianneHolveck/Pokedex"><b>Movies and TvShows info</b></a>  | <img alt="symfony" src="https://img.shields.io/badge/-SYMFONY-green?style=flat-square&logo=symfony&logoColor=white" />             |   <img alt="Forks" src="https://img.shields.io/github/forks/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> | -->
 
 
@@ -38,6 +38,7 @@
 
 | 💻 Projects  | 🛎 Technology | 📚 Forks | 📬 Pull requests |
 | :--------------- | :---------------: | :---------------: | :---------------: |
+| <a href="https://github.com/MarianneHolveck/MediaList"><b>My Medias List</b></a>  |  <img alt="API" src="https://img.shields.io/badge/-API-blue?style=flat-square&logo=api&logoColor=white" />        |  <img alt="Forks" src="https://img.shields.io/github/forks/MarianneHolveck/MediaList?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MarianneHolveck/MediaList?style=flat-square&labelColor=343b41"/> |
 | <a href="https://github.com/MarianneHolveck/Pokedex"><b>Pokedex</b></a>  |  <img alt="MVC" src="https://img.shields.io/badge/-MVC-blue?style=flat-square&logo=mvc&logoColor=white" />   |  <img alt="Forks" src="https://img.shields.io/github/forks/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MarianneHolveck/Pokedex?style=flat-square&labelColor=343b41"/> |
 | <a href="https://github.com/MarianneHolveck/GameOfThrones"><b>Game of Thrones</b></a> | <img alt="laravel" src="https://img.shields.io/badge/-LARAVEL-ef2a1d?style=flat-square&logo=laravel&logoColor=white" />  |   <img alt="Forks" src="https://img.shields.io/github/forks/MarianneHolveck/GameOfThrones?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MarianneHolveck/GameOfThrones?style=flat-square&labelColor=343b41"/> |
 
@@ -80,6 +81,8 @@
 <img alt="windows" src="https://img.shields.io/badge/-WINDOWS-99dd17?style=flat-square&logo=windows&logoColor=white" />
 <img alt="linux" src="https://img.shields.io/badge/-LINUX-f28a00?style=flat-square&logo=linux&logoColor=white" />
 <img alt="mac" src="https://img.shields.io/badge/-macOS-f50572?style=flat-square&logo=macos&logoColor=white" />
+<br>
+<img alt="agile" src="https://img.shields.io/badge/-AGILE-ff6100?style=flat-square&logo=agile&logoColor=white" />
 </p>
 
 
