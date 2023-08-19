@@ -10,7 +10,7 @@
 **Welcome on my Github page ! Here's a little more about me :**
 
 >I'm french and I live in Lyon <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/><br>
->I'm currently doing a professional re-orientation to work in web development.<br>
+>I'm a back-end web developer. I mainly develop in php using Symfony.<br>
 >I have acquired a lot of knowledges in different development languages thank to my school : O'clock  <a href="https://oclock.io/"><img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/595cae450000ff0005a600d6/0x0.png" width="13"/></a> <br>
 >I used to work in computer design, which allowed me to develop my creative skills, and my stress management.
 
