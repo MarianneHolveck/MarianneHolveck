@@ -55,7 +55,7 @@
 
 <p>
   <img alt="php" src="https://img.shields.io/badge/-PHP-4d588e?style=flat-square&logo=php&logoColor=white" />
-  <img alt="php" src="https://img.shields.io/badge/-MYSQL-4d588e?style=flat-square&logo=php&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/-MYSQL-005e87?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-2862E9?style=flat-square&logo=css3&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-efd81d?style=flat-square&logo=javascript&logoColor=black" />
@@ -76,7 +76,6 @@
 <p>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="github" src="https://img.shields.io/badge/-GitHUB-black?style=flat-square&logo=github&logoColor=white" />
-<img alt="mysql" src="https://img.shields.io/badge/-MYSQL-005e87?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="vscode" src="https://img.shields.io/badge/-VSCODE-0076c6?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img alt="trello" src="https://img.shields.io/badge/-TRELLO-026aa7?style=flat-square&logo=trello&logoColor=white" />
 <img alt="windows" src="https://img.shields.io/badge/-WINDOWS-99dd17?style=flat-square&logo=windows&logoColor=white" />
