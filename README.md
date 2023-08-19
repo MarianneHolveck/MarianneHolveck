@@ -54,9 +54,9 @@
 ### *Languages*
 
 <p>
+  <img alt="php" src="https://img.shields.io/badge/-PHP-4d588e?style=flat-square&logo=php&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-2862E9?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="php" src="https://img.shields.io/badge/-PHP-4d588e?style=flat-square&logo=php&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-efd81d?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-BOOTSTRAP-7410f0?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="twig" src="https://img.shields.io/badge/-TWIG-b6c927?style=flat-square&logo=twig&logoColor=white" />
