@@ -3,7 +3,7 @@
 
 # Hello there, I'm Marianne 👋
 
-## *I'm Web Developer*
+## *I'm a Web Developer*
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MarianneHolveck&left_color=blue&right_color=grey)
 
